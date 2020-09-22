@@ -10,7 +10,7 @@ function App() {
     <Router basename={`${process.env.PUBLIC_URL}/`}>
       <Header />
       <Switch>
-        <Route path="/" component={Home} />
+        <Route exact path="/" component={Home} />
       
       
       </Switch>
