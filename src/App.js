@@ -7,10 +7,10 @@ import './App.css';
 
 function App() {
   return (
-    <Router >
+    <Router  basename={process.env.PUBLIC_URL}>
       <Header />
       <Switch>
-        <Route path= {process.env.PUBLIC_URL + '/'} component={Home} />
+        <Route path={process.env.PUBLIC_URL + '/'} component={Home} />
       
       
       </Switch>
