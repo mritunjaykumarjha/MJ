@@ -1,0 +1,28 @@
+a{
+    color: white;
+}
+a:hover{
+    color:turquoise;
+    text-decoration: none;
+}
+
+
+#links{
+    float: left;
+    margin:30px;
+    
+}
+
+.toggler{
+    border-style: none;
+    padding:2px;
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8');
+}
+    
+.navbar{
+    padding:30px;
+  
+}
+div{
+    
+}

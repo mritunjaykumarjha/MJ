@@ -1,0 +1,14 @@
+#head{
+    color: turquoise;
+    display: flex;
+    justify-content: center;
+
+}
+#workcard{
+}
+#cardlist{
+    color: turquoise;
+    background-color: #020c1b;
+    margin: 10px;
+    padding:20px;
+}

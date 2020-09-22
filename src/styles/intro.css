@@ -1,0 +1,29 @@
+#intro{
+    display: flex;
+    color: turquoise;
+    padding:100px;
+    justify-content: flex-end;
+
+
+}
+#introtext{
+    background-color: #020c1b;
+}
+h5{
+    text-align: left;
+
+    border-color: turquoise;
+
+}
+
+#ptext{
+    color: white;
+    font-size: 16px;
+    
+}
+em{
+    color: turquoise;
+}
+#introlist{
+    list-style-type:square;
+}

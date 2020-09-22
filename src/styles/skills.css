@@ -1,0 +1,23 @@
+#skill{
+display: flex;
+justify-content: flex-end;
+padding: 40px;
+color: turquoise;
+}
+#content{
+    background-color: #020c1b;
+    padding: 40px;
+    
+    
+    
+
+}
+.col{
+    display: table-cell;
+
+}
+.colcontainer{
+    display: table;
+    width: 100%;
+    
+}

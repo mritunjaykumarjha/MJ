@@ -1,0 +1,18 @@
+#experience{
+    display: flex;
+    padding: 40px;
+    
+}
+#exp{
+    background-color:  #020c1b;
+    
+}
+#head{
+    color: turquoise;
+}
+#duration{
+    text-align: right;
+}
+#list{
+    color: white;
+}

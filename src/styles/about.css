@@ -1,0 +1,30 @@
+.about{
+    padding:50px;
+    height: auto;
+    text-align: left;
+    color: turquoise;
+    display: flex;
+    justify-content: center;
+}
+
+#about{
+    background-color:#020c1b;
+}
+   
+h1{
+    color:white;
+    font-size: 60px;
+}
+#btn{
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: turquoise;
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+    
+    
+}
