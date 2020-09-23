@@ -7,7 +7,7 @@ const Intro =()=>{
     <div id="intro">
         <Jumbotron id="introtext">
             <h5>Background<span/></h5><br></br>
-            <p id="ptext">Hello! I am frontend engineer based in Jamshedpur,Jharkhand.  </p>
+            <p id="ptext">Hello! I am frontend engineer currently looking for new opportunities.  </p>
             <p id="ptext">I enjoy creating beautiful responsive interfaces & experiences on web.<br></br> 
             Previously worked as an Remote Associate for 2 years & 3 months with <em>Amazon, Hyderabad,India</em> <br>
             </br>shortly after graduating with B.Tech in CSE from <em>Lovely professional university, Punjab, India 2017</em></p>

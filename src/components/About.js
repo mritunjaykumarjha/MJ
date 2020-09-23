@@ -12,7 +12,7 @@ const About =()=>{
                 <h1> Mritunjay Kumar Jha. </h1><br></br>
                 <h2>I build things for web.</h2>
                 <br></br>
-                <Button id="btn" href="mailto:jhamrk@gmail.com">Contact</Button>
+                <Button id="btn" href="mailto:jmritunjay00@gmail.com">Contact</Button>
 
             </Jumbotron>
 

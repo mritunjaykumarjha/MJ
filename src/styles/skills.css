@@ -1,23 +1,28 @@
 #skill{
 display: flex;
-justify-content: flex-end;
+justify-content: space-around;
 padding: 40px;
+
 color: turquoise;
 }
 #content{
     background-color: #020c1b;
-    padding: 40px;
+    padding:40px;
     
     
     
 
+}
+
+.col-container{
+    display: flex;
+  
+    
 }
 .col{
-    display: table-cell;
-
-}
-.colcontainer{
-    display: table;
-    width: 100%;
+    flex: 1;
     
-}
+    }
+    #head{
+        padding:10px;
+    }

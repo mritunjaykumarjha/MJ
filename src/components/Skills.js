@@ -6,7 +6,7 @@ const Skills=()=>{
     return(
         <div id="skill">
             <Jumbotron id="content">
-             <h4>Skills</h4><br></br>
+             <h4 id="head">Skills</h4><br></br>
              <div className="col-container">
                  <div className="col">
                      <h6>Programming Languages</h6>

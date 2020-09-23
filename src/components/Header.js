@@ -10,7 +10,7 @@ const Header=()=>{
 
             <Navbar className="navbar"  collapseOnSelect expand="lg">
                 <Navbar.Brand href="/" >
-                    <img src= "/logo.png" alt="logo"  /> 
+                    <img src= "logo.png" alt="logo"  /> 
                     </Navbar.Brand>
                     <Navbar.Toggle className="toggler" aria-controls="navlinks" aria-hidden="true" />
                     
@@ -28,7 +28,7 @@ const Header=()=>{
                         
                             
 
-                            <li id="links"><a href="Resume" style={{border:"2px",borderStyle:"solid",padding:"10px",borderColor:"turquoise",borderRadius:"10px"}}>Resume</a></li>
+                            <li id="links"><a href="//drive.google.com/file/d/1EkxwPD3LC3I9DQVVjfRKM3rF-uSonM3B/view?usp=sharing" style={{border:"2px",borderStyle:"solid",padding:"10px",borderColor:"turquoise",borderRadius:"10px"}}>Resume</a></li>
 
 
              
